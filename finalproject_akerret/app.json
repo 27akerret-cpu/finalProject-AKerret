@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "finalproject_akerret",
+    "slug": "snack-752487f6-7d82-4be9-8b27-34163c2d53dc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.avivkerret.snack752487f67d824be98b2734163c2d53dc"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e7fd4ab9-ad54-4cbd-b0c9-991e50971646"
+      }
+    }
+  }
+}
